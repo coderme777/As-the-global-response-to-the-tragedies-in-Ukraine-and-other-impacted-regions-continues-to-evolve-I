@@ -1,0 +1,2 @@
+#time of the work php script
+php_value max_execution_time 700
